@@ -1,0 +1,6 @@
+{
+  "name": "KPS AI Workforce",
+  "description": "Multi-Tenant SaaS + AI Agency Platform for autonomous AI voice and chat workforce by Khans Professional Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
